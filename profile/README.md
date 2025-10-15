@@ -4,6 +4,8 @@ The **Delta Force Aim Assist** is an advanced precision and targeting enhancemen
 
 Built with adaptive targeting logic and real-time calibration, it’s engineered for elite-level responsiveness without affecting game integrity.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://delta-force-aim-assists.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
